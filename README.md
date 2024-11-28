@@ -5,7 +5,7 @@
 <p align="left">
   🎓 BCA Student | TMU University, Moradabad<br>
   💼 Full Stack Developer | Serious About My Work<br>
-  📚 Continuous Learner: Exploring DSA, Problem Solving, Android Development, Web3, and More<br>
+  📚 Continuous Learner: Web Development, Web3, Android Development, DSA, Problem Solving Skills<br>
 </p>
 
 <h2 align="left">I code with</h2>
