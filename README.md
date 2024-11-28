@@ -5,7 +5,7 @@
 <p align="left">
   🎓 BCA Student | TMU University, Moradabad<br>
   💼 Software Engineer | Full Stack Developer<br>
-  📚 Continuous Learner: Web Development, Web3, Android Development, DSA, Problem Solving Skills<br>
+  📚 Web Development | Web3 | Android Development | DSA | Problem Solving Skills<br>
   
 
 <div align="left">
