@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋!</h2>
-<h2 align="left">My name is Ubaid, and I'm a Software Engineer and Full Stack Developer from Rampur.</h2>
+<h2 align="left">Hi 👋! My name is Ubaid, and I'm a Software Engineer and Full Stack Developer from Rampur.</h2>
 
 ###
 
