@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ubaid and I'm a full stack developer, from Rampur. I'm also a 2nd year BCA student.</h2>
+<h2 align="left">Hi 👋! My name is Ubaid and I'm a full stack developer, from Rampur.</h2>
 
 ###
 
@@ -48,17 +48,6 @@
 
 ###
 
-
-
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
@@ -68,7 +57,6 @@
   💼 Full Stack Developer | Serious About My Work<br>
   📚 Continuous Learner: Exploring DSA, Problem Solving, Android Development, Web3, and More<br>
 </p>
-###
 
 <h2 align="left">I code with</h2>
 
