@@ -2,11 +2,6 @@
 
 ###
 
-
-<h2 align="left">About Me</h2>
-
-###
-
 <p align="left">
   🎓 BCA Student | TMU University, Moradabad<br>
   💼 Full Stack Developer | Serious About My Work<br>
