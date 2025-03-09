@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Here Ubaid, BCA Student and Full Stack Developer from Rampur.</h2>
+<h2 align="left">Hi 👋! Here Ubaid, Web Developer Tutor at @preply</h2>
 
 ###
 
