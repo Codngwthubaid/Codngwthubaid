@@ -69,3 +69,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
+
+###
