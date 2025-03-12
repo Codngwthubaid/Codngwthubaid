@@ -69,6 +69,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/Codngwthubaid">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Codngwthubaid&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ###
