@@ -69,7 +69,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/Codngwthubaid">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316uwgukbgwd53x62ypqdkqw24ue" alt="Soldiers of Allah"  />
   </a>
