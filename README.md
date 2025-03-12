@@ -69,10 +69,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/Codngwthubaid">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316uwgukbgwd53x62ypqdkqw24ue" alt="Soldiers of Allah"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
 
 ###
