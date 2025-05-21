@@ -58,8 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />  
-  <img width="12" />
- <img src="https://raw.githubusercontent.com/styled-icons/styled-icon/master/icons/Zustand/Zustand-original.svg" height="40" alt="Zustand logo" />
 </div>
 
 ###
