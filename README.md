@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
+  💼 Full Stack Developer | Web Developer Tutor at @preply <br>
   🎓 BCA Student | TMU University, Moradabad<br>
-  💼 Web Developer Tutor at @preply | Full Stack Developer<br>
 
 <div align="left">
  <div align="left">
