@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Here Ubaid, Full Stack Developer Intern @Impresio Studio <br/> Web Developer Tutor at @preply</h2>
+<h2 align="left">Hi 👋! Here Ubaid, Full Stack Developer <br/> Web Developer Tutor at @preply</h2>
 
 ###
 
