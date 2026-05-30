@@ -63,8 +63,8 @@
 ###
 
 <div align="left">
-  <img src="![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Codngwthubaid&show_icons=true&theme=dracula)" height="150" alt="stats graph"  />
-  <img src="![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codngwthubaid&layout=compact&theme=dracula)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codngwthubaid&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codngwthubaid&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
