@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! Here Ubaid, Full Stack Developer <br/> Web Developer Tutor at @preply</h2>
+<h2 align="left">Hi 👋! Here Ubaid, AI Powered Data Analysis | Freelance Full Stack Developer <br/> Web Developer Tutor at @preply</h2>
 
 ###
 
 <p align="left">
-  💼 Full Stack Developer @Impresio Studio | Web Developer Tutor at @preply <br>
-  🎓 BCA Student | TMU University, Moradabad<br>
+  💼 AI Powered Data Analysis | Web Developer Tutor at @preply <br>
+  🎓 BCA Graduate | TMU University, Moradabad<br>
 
 <div align="left">
  <div align="left">
@@ -58,6 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />  
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+<img width="12" />
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI logo" />
+<img width="12" />
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel logo" />
+<img width="12" />
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" height="40" alt="Data Analytics logo" />
 </div>
 
 ###
