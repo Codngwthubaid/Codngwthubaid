@@ -69,14 +69,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codngwthubaid&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codngwthubaid&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
-
-###
