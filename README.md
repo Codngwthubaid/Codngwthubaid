@@ -1,9 +1,11 @@
-<h2 align="left">Hi 👋! Here Ubaid, AI Powered Data Analysis | Freelance Full Stack Developer <br/> Web Developer Tutor at @preply</h2>
+<h2 align="left">Hi 👋! Here Ubaid, Associate Analyst @AMLRS<br>
+  Data Engineer | Data Analysis | Freelance Full Stack Developer <br/> Web Developer Tutor at @preply
+</h2>
 
 ###
 
 <p align="left">
-  💼 AI Powered Data Analysis | Web Developer Tutor at @preply <br>
+  💼 Data Engineer | Data Analysis | Web Developer Tutor at @preply<br>
   🎓 BCA Graduate | TMU University, Moradabad<br>
 
 <div align="left">
