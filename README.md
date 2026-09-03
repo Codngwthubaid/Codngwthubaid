@@ -16,7 +16,7 @@
 <!-- Programming -->
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo" />
+<img src="https://img.icons8.com/color/48/sql.png" height="40" alt="SQL logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo" />
 
@@ -26,7 +26,7 @@
 <img width="12" />
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel logo" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="40" alt="Tableau logo" />
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau logo" />
 
 <!-- Python Data -->
 <img width="12" />
@@ -46,7 +46,7 @@
 
 <!-- Data Engineering -->
 <img width="12" />
-<img src="https://cdn.simpleicons.org/dbt/FF694B" height="40" alt="dbt logo" />
+<img src="https://img.icons8.com/color/48/database.png" height="40" alt="dbt logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow logo" />
 <img width="12" />
