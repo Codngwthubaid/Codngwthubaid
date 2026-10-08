@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! Here Ubaid, Associate Analyst @AMLRS<br>
-  Data Engineer | Data Analysis | Freelance Full Stack Developer <br/> Web Developer Tutor at @preply
+  Data Engineer | Data Analysis | Freelance Full Stack Developer <br/> Ex - Web Developer Tutor at @preply
 </h2>
 
 ###
