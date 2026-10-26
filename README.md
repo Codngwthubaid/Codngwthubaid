@@ -200,3 +200,45 @@ I'm always open to **Data Engineering opportunities, collaborations, and interes
 </p>
 
 <p align="center"><i>“Turning raw data into reliable, decision-ready pipelines — one ETL job at a time.”</i> 🚀</p>
+
+
+
+
+IMPORTANT DE TERMS - 
+The following data engineering terms are explained in the video:
+
+*   **Database** (1:55)
+*   **ACID Properties** (3:44)
+*   **Write Ahead Log (WAL)** (11:07)
+*   **Data Warehouse** (14:30)
+*   **Data Lake** (19:54)
+*   **Data Lakehouse** (27:34)
+*   **Delta Lake / Open Table Format** (33:14)
+*   **Lakehouse / Lakebase** (36:14)
+*   **Data Mart** (42:01)
+*   **Data Mesh** (46:40)
+*   **Data Fabric** (59:57)
+*   **ETL / ELT** (103:54)
+*   **Incremental Data Loading** (110:13)
+*   **Back-date Refresh** (111:08)
+*   **Idempotency** (118:13)
+*   **Upsert** (118:33)
+*   **Database Modeling (OLTP vs OLAP)** (121:33)
+*   **Normalization** (126:38)
+*   **Fact and Dimension Tables** (131:42)
+*   **Star Schema** (134:29)
+*   **Snowflake Schema** (134:44)
+*   **Slowly Changing Dimensions (SCD)** (136:34)
+*   **Batch vs. Streaming Processing** (153:14)
+*   **Lambda Architecture** (153:30)
+*   **Kappa Architecture** (202:48)
+*   **CDC (Change Data Capture)** (203:40)
+*   **Change Tracking (CT)** (206:40)
+*   **Schema Evolution** (212:37)
+*   **Row-based vs. Column-based File Formats** (214:06)
+*   **HDFS (Hadoop Distributed File System)** (223:49)
+*   **Apache Spark** (237:18)
+*   **Data Orchestration** (238:18)
+*   **dbt (data build tool)** (243:52)
+*   **Apache Kafka** (249:28)
+*   **CI/CD / DataOps** (252:44)
